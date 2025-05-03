@@ -66,7 +66,7 @@
 - Feature Importance Analysis:
 
   - Identify key defect-related indicators using model-based variable importance.
-  - 
+    
 ## 🎯 Expected Outcomes and Benefits
 
 - Expected Outcomes
